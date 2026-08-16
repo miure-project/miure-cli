@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2026 miure-project
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+build
+dist
+.cache
